@@ -53,4 +53,5 @@ public class One {
         String isra = r > 50 ? "yes" : "no";
         System.out.println(isra);
     }
-}
+}hi ali
+bye ali

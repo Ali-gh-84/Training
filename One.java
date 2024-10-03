@@ -55,3 +55,4 @@ public class One {
     }
 }hi ali
 bye ali
+hi mamad
